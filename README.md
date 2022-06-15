@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-kotekote11/kotekote11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kotekote11/kotekote11 is a ✨ special ✨ repositfffffffffffffffffffffffffffffffory because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
