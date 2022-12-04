@@ -1,2 +1,3 @@
 User-agent: *
-Sitemap: /sitemap.xml
+Host: https://stileprofi.ru/
+Sitemap: https://stileprofi.ru/sitemap.xml
