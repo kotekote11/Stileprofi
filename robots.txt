@@ -1,5 +1,5 @@
 User-agent: *
-Allow: /
+Allow: /$
 Disallow: /*
 Host: https://stileprofi.ru/
 Sitemap: https://stileprofi.ru/sitemap.xml
